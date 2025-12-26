@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="H:X,(^7dpy)ctr@.Ru5a">Merry Christmas</variable></variables><block type="device_forever" id="@aE.q!mKf=u[tNNO~P!n" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="tqdb/6bG^et0bk2,a7Ve"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><data>{"commentRefs":[],"fieldData":{}}</data><next><block type="device_show_leds" id="z|YL4{2M5/UCW*Rh,(a?"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></statement></block></xml>
